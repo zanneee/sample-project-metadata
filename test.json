@@ -1,0 +1,10 @@
+{
+  "name": "Immutable Burger Truck (Norma in Metaland)",
+  "description": "NFT that can be collected from 'Cooking Norma: Burger IMXpress'.",
+  "image": "https://immutableburgertruck.nft.grampus.co/images/BurgerNFT.png",
+  "attributes": [
+    {
+      "trait_type": "Game Title",
+      "value": "Norma in Metaland"
+    }
+}
